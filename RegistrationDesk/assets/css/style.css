@@ -1,0 +1,16 @@
+.widget {
+    background-color: blue;
+  }
+  
+  .desc, .value {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .data-info .indicator {
+    color: white;
+  }
+  
+  .chart {
+    background-color: transparent;
+  }
